@@ -2,6 +2,8 @@
 Módulo para exemplificar a construção de projetos Python no curso Pytools
 Nesse projeto é ensinado como contribuir com projetos de código aberto.
 
+ISSO É UM TESTE E DEVE SER REMOVIDO
+
 [![Build Status](https://travis-ci.com/RicardoHMoreno/libpythonpro.svg?branch=main)](https://travis-ci.com/RicardoHMoreno/libpythonpro)
 
 Suportada a versão 3 de Python 
